@@ -1,5 +1,15 @@
 [
   {
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
