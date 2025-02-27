@@ -1,5 +1,16 @@
 [
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "title_slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
