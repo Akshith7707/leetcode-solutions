@@ -41,6 +41,15 @@
     ]
   },
   {
+    "id": 237,
+    "title": "Delete Node in a Linked List",
+    "title_slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 796,
     "title": "Rotate String",
     "title_slug": "rotate-string",
