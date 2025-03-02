@@ -30,6 +30,16 @@
     ]
   },
   {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 151,
     "title": "Reverse Words in a String",
     "title_slug": "reverse-words-in-a-string",
