@@ -6,6 +6,7 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | `String` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Dynamic Programming` `String` |

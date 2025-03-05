@@ -1,5 +1,16 @@
 [
   {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "title_slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 8,
     "title": "String to Integer (atoi)",
     "title_slug": "string-to-integer-atoi",
