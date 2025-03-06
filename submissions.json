@@ -82,6 +82,18 @@
     ]
   },
   {
+    "id": 229,
+    "title": "Majority Element II",
+    "title_slug": "majority-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 237,
     "title": "Delete Node in a Linked List",
     "title_slug": "delete-node-in-a-linked-list",
