@@ -103,6 +103,18 @@
     ]
   },
   {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 796,
     "title": "Rotate String",
     "title_slug": "rotate-string",
