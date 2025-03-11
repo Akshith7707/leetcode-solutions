@@ -42,6 +42,16 @@
     ]
   },
   {
+    "id": 27,
+    "title": "Remove Element",
+    "title_slug": "remove-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
