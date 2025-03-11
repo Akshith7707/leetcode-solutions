@@ -11,6 +11,7 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Dynamic Programming` `String` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | `Array` `Two Pointers` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium | `String` `Two Pointers` |

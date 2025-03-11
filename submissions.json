@@ -52,6 +52,16 @@
     ]
   },
   {
+    "id": 31,
+    "title": "Next Permutation",
+    "title_slug": "next-permutation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
