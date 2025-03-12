@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 12,
+    "title": "Integer to Roman",
+    "title_slug": "integer-to-roman",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 14,
     "title": "Longest Common Prefix",
     "title_slug": "longest-common-prefix",
