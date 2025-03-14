@@ -1,5 +1,16 @@
 [
   {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "title_slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 5,
     "title": "Longest Palindromic Substring",
     "title_slug": "longest-palindromic-substring",
