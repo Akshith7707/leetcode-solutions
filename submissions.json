@@ -144,6 +144,15 @@
     ]
   },
   {
+    "id": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "title_slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 151,
     "title": "Reverse Words in a String",
     "title_slug": "reverse-words-in-a-string",
