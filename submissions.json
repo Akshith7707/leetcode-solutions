@@ -82,6 +82,17 @@
     ]
   },
   {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "title_slug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 19,
     "title": "Remove Nth Node From End of List",
     "title_slug": "remove-nth-node-from-end-of-list",

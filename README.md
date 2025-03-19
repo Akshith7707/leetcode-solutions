@@ -14,6 +14,7 @@
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | `Hash Table` `Math` `String` |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | `Backtracking` `Hash Table` `String` |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | `Linked List` `Two Pointers` |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Linked List` `Recursion` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Dynamic Programming` `String` |
