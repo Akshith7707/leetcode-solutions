@@ -22,6 +22,15 @@
     ]
   },
   {
+    "id": 6,
+    "title": "Zigzag Conversion",
+    "title_slug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 8,
     "title": "String to Integer (atoi)",
     "title_slug": "string-to-integer-atoi",
