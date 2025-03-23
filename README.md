@@ -9,6 +9,7 @@
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | `Linked List` `Math` `Recursion` |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | `String` |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | `String` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | `Hash Table` `Math` `String` |
