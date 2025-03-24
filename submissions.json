@@ -215,6 +215,16 @@
     ]
   },
   {
+    "id": 147,
+    "title": "Insertion Sort List",
+    "title_slug": "insertion-sort-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Sorting"
+    ]
+  },
+  {
     "id": 151,
     "title": "Reverse Words in a String",
     "title_slug": "reverse-words-in-a-string",
