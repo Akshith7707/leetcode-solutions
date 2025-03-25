@@ -184,6 +184,17 @@
     ]
   },
   {
+    "id": 43,
+    "title": "Multiply Strings",
+    "title_slug": "multiply-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 50,
     "title": "Pow(x, n)",
     "title_slug": "powx-n",
